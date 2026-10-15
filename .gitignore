@@ -1,0 +1,21 @@
+# Local secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
